@@ -1,0 +1,103 @@
+.imglogo {
+  width: 100px;
+}
+
+.bgimg {
+  background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.banner-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.banner-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: white;
+}
+
+.banner-button {
+  font-family: Roboto;
+  height: 45px;
+  width: 110px;
+  border-radius: 15px;
+  border-width: 0px;
+  color: #0c0521;
+  background-color: #ffdda9;
+  font-size: 12px;
+}
+
+.bgcl2 {
+  background-color: #0c0521;
+}
+
+.logos-bgclr {
+  background-color: #ffffff;
+}
+
+.logos-heading {
+  font-family: Roboto;
+  font-size: 12px;
+  color: #323f4b;
+}
+.deliver-heading {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #323f4b;
+}
+
+.deliver-paragraph {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #7b8794;
+}
+.tool-bg {
+  background-color: #ffffff;
+}
+
+.tool-heading {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #323f4b;
+  margin-top: 10px;
+}
+
+.tool-paragraph {
+  font-family: Roboto;
+  font-size: 14px;
+  color: #7b8794;
+}
+.feature-heading {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #323f4b;
+  font-weight: 500;
+}
+
+.feature-paragraph {
+  font-family: Roboto;
+  font-size: 13px;
+  color: #9aa5b1;
+}
+
+.feature-heading1 {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #323f4b;
+}
+
+.imgcards {
+  height: 70px;
+  width: 85px;
+}
+
+.feature-paragraph1 {
+  color: #7b8794;
+  font-family: Roboto;
+  font-size: 11px;
+}
